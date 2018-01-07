@@ -1,5 +1,5 @@
--e git+https://github.com/vahana/prf.git@2to3#egg=prf
--e git+https://github.com/vahana/slovar.git@2to3#egg=slovar
+-e git+https://github.com/vahana/prf.git#egg=prf
+-e git+https://github.com/vahana/slovar.git#egg=slovar
 -e .
 
 marshmallow
